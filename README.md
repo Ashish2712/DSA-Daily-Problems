@@ -3,7 +3,6 @@
 This repo contains commonly asked DSA questions along with their answers in 3 different languages
 1. Python
 2. JavaScript
-3. Java
 
 Will cover followings topics
 1.  Arrays
